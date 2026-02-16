@@ -1,0 +1,7 @@
+app:
+  message: "Hello form Hydra! "
+  repeat: 1
+
+ml:
+  model_name: "resnet50"
+  batch_size: 32

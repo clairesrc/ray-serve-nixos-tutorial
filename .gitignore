@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ray
+/tmp/ray/
+.ray/
+
+# Editor
+.vscode/
+.idea/
+
+# Nix
+result
